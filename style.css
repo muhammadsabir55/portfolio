@@ -75,7 +75,7 @@
 }
 #bt {
   border-radius: 15px;
-  transition: all 2s;
+  transition: all 1s;
   font-size: 20px;
   background-color: rgb(127, 171, 157);
 }
@@ -85,7 +85,7 @@
   color: black;
 }
 #bt:hover {
-  transform: rotate(360deg);
+  transform: scale(1.1);
   background-color: rgb(228, 183, 100);
   color: white;
 }
